@@ -2,7 +2,7 @@
 
 基于淘宝公开数据，对 COACH 品牌商品进行全链路商业分析：数据采集 → 清洗入库 → 多维分析 → LSTM 销量预测 → 可视化大屏。
 
-**在线静态报告**：https://lulu1766.github.io/coach-analysis/
+**在线静态报告**：https://lulu1766.github.io/taobao-coach-product-analysis/
 
 ## 核心分析结论
 
